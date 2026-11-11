@@ -1,0 +1,10 @@
+{
+  "name": "model-team-desktop",
+  "version": "0.1.0",
+  "private": true,
+  "productName": "多模型协作桌面版",
+  "main": "main.cjs",
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}

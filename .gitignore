@@ -1,0 +1,14 @@
+node_modules/
+desktop/release/
+desktop/backups/
+*.log
+.env
+.env.*
+!.env.example
+CodexModelTeam/
+config.json
+service.json
+tasks.json
+交接*.md
+*验收*.jpg
+*验收*.png
